@@ -1,5 +1,5 @@
 {
-    "name": "noj-language-services/themes",
+    "name": "noj-language-service/themes",
     "description": "Standalone Themes for Language Services of NOJ.",
     "type": "noj-language-services",
     "license": "MIT",
